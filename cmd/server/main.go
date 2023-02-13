@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/Jxancestral17/distributed_services_learn/distributed_services/internal/server"
+	"github.com/Jxancestral17/API_PROTO/internal/server"
 )
 
 func main() {
